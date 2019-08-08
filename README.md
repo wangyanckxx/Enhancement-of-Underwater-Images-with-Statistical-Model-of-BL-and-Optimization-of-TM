@@ -31,7 +31,7 @@ This repository contains the files:
 4. Find the enhanced/restored images in "OutputImages" folder.
 
 
-## If these coded prove useful for your research, please cite our pre-printed review paper and some related papers.
+## If these codes prove useful for your research, please cite our pre-printed review paper and some related papers.
 
 ```
 @article{Review of Image Enhancement and Image Restoration Methods,
