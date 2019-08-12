@@ -12,6 +12,25 @@
 - You agree not to further copy, publish or distribute any portion of the DOL. Except, for internal use at a single site within the same organization it is allowed to make copies of the dataset.
 - The SOL reserves the right to terminate your access to the DOL at any time.
 
+## How to get the Password
+
+This database is publicly available. It is free for professors and researcher scientists affiliated to a University.
+Permission to use but not reproduce or distribute our database is granted to all researchers given that the following steps are properly followed:
+Send an e-mail to Yan Wang (19110860017@fudan.edu.cn) or Wei Song (wsong@shou.edu.cn) before downloading the database. You will need a password to access the files of this database. Your Email MUST be set from a valid University account and MUST include the following text:
+```
+1. Subject: (DOL) Application to download the DOL Dataset          
+2. Name: <your first and last name>
+3. Affiliation: <University where you work>
+4. Department: <your department>
+5. Position: <your job title>
+6. Email: <must be the email at the above mentioned institution>
+
+I have read and agree to the terms and conditions specified in the RAF face database webpage. 
+This database will only be used for research purposes. 
+I will not make any part of this database available to a third party. 
+I'll not sell any part of this database or make any profit from its use.
+```
+
 
 ## Install
 Here is the list of libraries you need to install to execute the code:
@@ -37,24 +56,6 @@ This repository contains the files:
 3. Python main.py;
 4. Find the enhanced/restored images in "OutputImages" folder.
 
-## How to get the Password
-
-This database is publicly available. It is free for professors and researcher scientists affiliated to a University.
-Permission to use but not reproduce or distribute our database is granted to all researchers given that the following steps are properly followed:
-Send an e-mail to Yan Wang (19110860017@fudan.edu.cn) or Wei Song (wsong@shou.edu.cn) before downloading the database. You will need a password to access the files of this database. Your Email MUST be set from a valid University account and MUST include the following text:
-```
-1. Subject: (DOL) Application to download the DOL Dataset          
-2. Name: <your first and last name>
-3. Affiliation: <University where you work>
-4. Department: <your department>
-5. Position: <your job title>
-6. Email: <must be the email at the above mentioned institution>
-
-I have read and agree to the terms and conditions specified in the RAF face database webpage. 
-This database will only be used for research purposes. 
-I will not make any part of this database available to a third party. 
-I'll not sell any part of this database or make any profit from its use.
-```
 
 ## If our database or these codes prove useful for your research, please cite our pre-printed review paper and some related papers.
 
