@@ -67,23 +67,11 @@ If our database or code proves useful for your research, please cite our review 
     title     = {An Experimental-based Review of Image Enhancement and Image Restoration Methods for Underwater Imaging},
     journal   = {IEEE Access，DOI:10.1109/ACCESS.2019.2932130},
     year      = {2019}
-}
-@article{Review of Image Enhancement and Image Restoration Methods,
-    author    = {Yan Wang, Wei Song, Giancarlo Fortino, Lizhe Qi, Wenqiang Zhang, Antonio Liotta},
-    title     = {An Experimental-based Review of Image Enhancement and Image Restoration Methods for Underwater Imaging},
-    journal   = {arXiv:1907.03246},
-    year      = {2019}
- }   
+}   
 @article{Underwater Image Enhancement Method,
     author    = {Wei Song, Yan Wang, Dongmei Huang, Antonio Liotta, Cristian Perra},
     title     = {Enhancement of Underwater Images with Statistical Model of Background Light and Optimization of Transmission Map},
     journal   = {IEEE Transactions on Broadcasting},
-    year      = {2019}
-}
-@article{Underwater Image Enhancement Method,
-    author    = {Wei Song, Yan Wang, Dongmei Huang, Antonio Liotta, Cristian Perra},
-    title     = {Enhancement of Underwater Images with Statistical Model of Background Light and Optimization of Transmission Map},
-    journal   = {arXiv:1906.08673},
     year      = {2019}
 }
 ```
